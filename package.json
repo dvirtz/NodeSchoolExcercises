@@ -1,0 +1,22 @@
+{
+  "name": "dvirtz",
+  "version": "0.0.1",
+  "description": "NodeSchoolExercises",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dvirtz/NodeSchoolExcercises.git"
+  },
+  "author": "dvirtz",
+  "license": "WTFPL",
+  "bugs": {
+    "url": "https://github.com/dvirtz/NodeSchoolExcercises/issues"
+  },
+  "homepage": "https://github.com/dvirtz/NodeSchoolExcercises#readme",
+  "dependencies": {
+    "@linclark/pkg": "^1.0.2"
+  }
+}
